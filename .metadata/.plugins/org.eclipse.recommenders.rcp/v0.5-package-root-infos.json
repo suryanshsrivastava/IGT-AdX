@@ -1,0 +1,275 @@
+[
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 19,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9",
+    "jarFileModificationDate": "2017-09-16T10:29:28+05:30",
+    "location": "/home/debo/Desktop/6th Sem/GT/Project/adxgame-IGTSpring20/dependencies/guava-19.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf48c459c81d893c76cc3c2b7b690ac9c7715352",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cf457d11730d5bba81022e115ccd9a6e9727a78f",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5460adee09cc5fc8829c0acfc46c34670a7d70a0",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "76cfe08292ff7bce14576c136e0c8e147f2d3f42",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "356de54b0d0e115b51de4d3b8adb9e08f16b92fd",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d3f7143b9d3eb86283b6355f610642743581ea1e",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "94634c0a8f7ecead036bfd87f81e1120628079a7",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "cplex",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "19729d85703bec002444f9f70c3b21eee1edc8d4",
+    "jarFileModificationDate": "2017-09-16T11:07:44+05:30",
+    "location": "/home/debo/Desktop/6th Sem/GT/Project/adxgame-IGTSpring20/dependencies/cplex.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "54df9715689de147aa1dbf2ac72f10775e5e83df",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5bb1dedc3344cd3bb86828d4aa8ca82f4a606ed4",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d8c2d5186ef1abfb549ba9f7c4b003a87a844099",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e9f2a73c777afe3da2f0607a94d038d24e38778d",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7e1257d94319cd9414ed3566f579250a6fb328af",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.objenesis",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d906a8f689f340b39a7f78bf9b4474aa819d7391",
+    "jarFileModificationDate": "2017-09-16T10:29:28+05:30",
+    "location": "/home/debo/Desktop/6th Sem/GT/Project/adxgame-IGTSpring20/dependencies/kryonet-2.21-all.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "657a40571d1d6b79a25dba1372c85d0b5563d687",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a9a1c8db6cfc18900c08f128820e234a9ec2473c",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "adx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "98252e679fdf5cb17ebfc1d9f72440ab00e60699",
+    "jarFileModificationDate": "2017-09-22T00:57:30+05:30",
+    "location": "/home/debo/Desktop/6th Sem/GT/Project/adxgame-IGTSpring20/dependencies/adx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf1c817820341a246f7130fe046e8310b03d04f6",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "410df01b3f9bae3b400a920d850a1ec809b8531c",
+    "jarFileModificationDate": "2019-03-25T02:33:31+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.math",
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5f8d1d720333aa9a7dee1c949ea70d9ed7da6106",
+    "jarFileModificationDate": "2012-03-05T11:12:00+05:30",
+    "location": "/home/debo/Desktop/6th Sem/GT/Project/adxgame-IGTSpring20/dependencies/commons-math3-3.0.jar",
+    "javaRuntime": false
+  }
+]
